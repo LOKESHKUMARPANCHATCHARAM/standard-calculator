@@ -157,7 +157,7 @@ h1{
 
 ## OUTPUT:
 ![images](./calculator.png)
-![images](./calchtmlval.png)
+![images](./clachtmlval.png)
 
 
 ## Result:
